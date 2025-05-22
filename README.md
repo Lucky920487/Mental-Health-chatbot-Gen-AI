@@ -60,12 +60,6 @@ bash
 Copy
 Edit
 streamlit run app.py
-🧪 Future Improvements
-🗃️ Vector DB (like FAISS or Chroma) for better document retrieval
-
-📈 Mood tracking dashboard with data visualization
-
-🤖 Voice-to-text support for accessibility
 
 🧍 Personal user profile memory using LangChain Memory module
 
