@@ -40,7 +40,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/mental-health-chatbot.git
+git clone https://github.com/Lucky920487/Mental-Health-chatbot-Gen-AI.git
 cd mental-health-chatbot
 Install dependencies
 
